@@ -26,7 +26,7 @@ SECRET_KEY = '#7^b0_n=^k^d(2p2oiy&*8ind+wk%p$2r$f2zttfgxe^)i@!#l'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['lewis-todo-list-django-app.herokuapp.com']
 
 
 # Application definition
